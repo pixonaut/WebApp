@@ -1,4 +1,4 @@
-namespace webapp.ViewModel
+namespace Webapp.Backend.ViewModel
 {
     using System.Collections.Generic;
 

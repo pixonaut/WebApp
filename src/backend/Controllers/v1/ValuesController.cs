@@ -1,8 +1,10 @@
-﻿namespace webapp.Controllers.v1
+﻿using Webapp.Backend.ViewModel;
+
+namespace Webapp.Backend.Controllers.v1
 {
     using System.Collections.Generic;
     using Microsoft.AspNetCore.Mvc;
-    using webapp.ViewModel;
+    using Backend.ViewModel;
 
     [Route("api/v1/[controller]")]
     public class ValuesController : Controller

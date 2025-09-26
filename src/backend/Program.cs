@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 
-namespace webapp
+namespace Webapp.Backend
 {
     public class Program
     {

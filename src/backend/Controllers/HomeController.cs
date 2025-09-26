@@ -1,4 +1,4 @@
-namespace webapp.Controllers
+namespace Webapp.Backend.Controllers
 {
     using Microsoft.AspNetCore.Mvc;
 
